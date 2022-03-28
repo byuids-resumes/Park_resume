@@ -1,8 +1,8 @@
 ---
 layout: resume
-title: Brigham Young's Resume
+title: Youngwho Park's Resume
 ---
-# Brigham Young
+# Youngwho Park
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
