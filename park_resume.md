@@ -23,22 +23,24 @@ __LDS Business College__, Salt Lake City, UT
 
 - Half academic scholarship with 3.8 GPA
 
-`Expected 2023`
+`Expected Dec 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- 3.8 Major GPA
 
 
 ## Related Experience
 
-### Internships
+### Personal Projects/Relevant Projects
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`Jan 2022 - Mar 2022`
+__Brigham Young University-Idaho 'ELEVATE'__, Data analytics
+- Produced, planned, and developed ideas by designing to make a scheduler app for every college students' inspiration in life
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+`Jan 2022 - Apr 2022`
+__Madison Memorial__, Data analytics
+- Cleaned data 
+
 
 ### Data Science Lead
 
