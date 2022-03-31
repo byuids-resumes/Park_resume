@@ -7,7 +7,7 @@ Brigham Young University-Idaho student of Data Science Major
 
 <div id="webaddress">
 <a href="dudgn1231@gmail.com">dudgn1231@gmail.com</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a> | <a href = "https://github.com/whoorayoung/Park_resume">GitHub </a>
+| <a href="https://byuidatascience.github.io/development.html">Data Science Major</a> | <a href = "https://www.linkedin.com/in/youngwho-park-0b08bb234/"> LinkedIn </a> | <a href = "https://github.com/whoorayoung/Park_resume">GitHub </a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -26,68 +26,52 @@ __LDS Business College__, Salt Lake City, UT
 `Expected Dec 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 3.8 Major GPA
+- 4.0 Major GPA
 
-
-## Related Experience
 
 ### Personal Projects/Relevant Projects
 
 `Jan 2022 - Mar 2022`
-__Brigham Young University-Idaho 'ELEVATE'__, Data analytics
+__Data Analytics__, Rexburg, ID
 - Produced, planned, and developed ideas by designing to make a scheduler app for every college students' inspiration in life
 
 `Jan 2022 - Apr 2022`
 __Madison Memorial__, Data analytics
-- Cleaned data 
+- Cleaned and created dashboard for Emergency Room data
+
+### Experience
+
+`Sep 2019 - Apr 2021`
+__Military Service__, Reconnaissance Battalion
+
+- Guided 12 team members by following commander’s order during practice, directed, counseled, and adjusted training to satisfy members’ mental and physical needs 
+- Cleaned entire basement during summer by mowing every day and organized rule between commander and soldier
+- Decreased time of cleaning snow in entire basement by separating well amount of people for each section
+
+## Volunteer Experience
+
+`May 2017 - Present`
+__Minister__, Salt Lake City, UT
+- Encouraged and inspired people by listening and giving constructive feedback 
+- Improved people’s lifestyle in a good way with suggestion of way of thinking positively by keep saying encouragement words
+
+`Mar 2021 - Aug 2021`
+__Saving Shelter Dogs__, South Korea, Seoul
+- Secured dogs’ safety from danger, ordered daily necessities, served foods, and cleaned shelter to care for animals’ health
+- Completed 6 animal adoption cases by introducing adoption process to people, asking questions to understand expectation, and with explanation to find people’s pet dog
 
 
-### Data Science Lead
+`Jan 2015 - Jan 2016`
+__Taekwondo(Assistant to the Sensei)__, South Korea, Seoul
+- Supported sensei with correcting students’ posture, teaching poomsae, and cleaning Taekwondo studio 
+- Merged many different students into one to focus on learning and trained about essential manners of Taekwondo
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
+## Skills
+- Proficient in Python, R, MYSQL, Excel
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: March 2022 -->
 
 
