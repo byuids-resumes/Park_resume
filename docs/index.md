@@ -1,89 +1,77 @@
 ---
-layout: cv
-title: Brigham Young's Resume
+layout: resume
+title: Youngwho Park's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Youngwho Park
+Brigham Young University-Idaho student of Data Science Major  
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="dudgn1231@gmail.com">dudgn1231@gmail.com</a>
+| <a href="https://byuidatascience.github.io/development.html">Data Science Major</a> | <a href = "https://www.linkedin.com/in/youngwho-park-0b08bb234/"> LinkedIn </a> | <a href = "https://github.com/whoorayoung/Park_resume">GitHub </a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
+
 ## Education
 
-`2025-2027`
+`2017`
+__Utah Valley University__, Orem, UT
+
+`2017-2018`
 __LDS Business College__, Salt Lake City, UT
 
-- Full academic scholarship with 4.0 GPA
+- Half academic scholarship with 3.8 GPA
 
-`Expected 2029`
+`Expected Dec 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 4.0 Major GPA
 
 
-## Related Experience
+### Personal Projects/Relevant Projects
 
-### Internships
+`Jan 2022 - Mar 2022`
+__Data Analytics__, Rexburg, ID
+- Produced, planned, and developed ideas by designing to make a scheduler app for every college students' inspiration in life
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`Jan 2022 - Apr 2022`
+__Madison Memorial__, Data analytics
+- Cleaned and created dashboard for Emergency Room data
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+### Experience
 
-### Data Science Lead
+`Sep 2019 - Apr 2021`
+__Military Service__, Reconnaissance Battalion
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+- Guided 12 team members by following commander’s order during practice, directed, counseled, and adjusted training to satisfy members’ mental and physical needs 
+- Cleaned entire basement during summer by mowing every day and organized rule between commander and soldier
+- Decreased time of cleaning snow in entire basement by separating well amount of people for each section
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+## Volunteer Experience
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+`May 2017 - Present`
+__Minister__, Salt Lake City, UT
+- Encouraged and inspired people by listening and giving constructive feedback 
+- Improved people’s lifestyle in a good way with suggestion of way of thinking positively by keep saying encouragement words
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+`Mar 2021 - Aug 2021`
+__Saving Shelter Dogs__, South Korea, Seoul
+- Secured dogs’ safety from danger, ordered daily necessities, served foods, and cleaned shelter to care for animals’ health
+- Completed 6 animal adoption cases by introducing adoption process to people, asking questions to understand expectation, and with explanation to find people’s pet dog
 
 
-## Service and Work History
+`Jan 2015 - Jan 2016`
+__Taekwondo(Assistant to the Sensei)__, South Korea, Seoul
+- Supported sensei with correcting students’ posture, teaching poomsae, and cleaning Taekwondo studio 
+- Merged many different students into one to focus on learning and trained about essential manners of Taekwondo
 
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
+## Skills
+- Proficient in Python, R, MYSQL, Excel
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: March 2022 -->
 
 
