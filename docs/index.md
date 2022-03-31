@@ -15,10 +15,10 @@ Brigham Young University-Idaho student of Data Science Major
 
 ## Education
 
-`2017`
+`Jan 2017 - Apr 2017`
 __Utah Valley University__, Orem, UT
 
-`2017-2018`
+`July 2017 - Apr2018`
 __LDS Business College__, Salt Lake City, UT
 
 - Half academic scholarship with 3.8 GPA
